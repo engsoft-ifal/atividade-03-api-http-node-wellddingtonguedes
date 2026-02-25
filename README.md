@@ -46,9 +46,11 @@ Os dados deverão ser armazenados em memória (array).
 
 Edite esta seção antes de iniciar.
 
-Nome completo:
-Matrícula:
-Variação calculada:
+Nome completo: Wellddington Fernando Barbosa da Silva Guedes
+
+Matrícula: 2019005856
+
+Variação calculada: 2
 
 Cálculo da variação:
 Último dígito da matrícula % 4
